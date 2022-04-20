@@ -22,6 +22,14 @@ elif y-1 == 1:
 else:
   row3[x_int-1] = "X"
 
+  #Easier way
+#if suppose position is 23 then
+# horizontal = int(position[0]) #2
+# vertical = int(position[1])   #3
+
+# selected_row = map[vertical - 1]
+# selected_row[horizontal - 1] = "X"
+
 
 
 
