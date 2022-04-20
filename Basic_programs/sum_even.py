@@ -6,3 +6,12 @@ for i in range(1, 101):
     sum = sum + i
     print(i)
 print(sum)
+
+#another method:
+# total = 0
+# for number in range(2, 101, 2):
+#   total += number
+# print(total)
+
+
+
