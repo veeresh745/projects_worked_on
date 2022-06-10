@@ -1,1 +1,1 @@
-All major capstone projects are added here.
+All major capstone projects using python are added here.
