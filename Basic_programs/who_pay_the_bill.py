@@ -1,3 +1,4 @@
+#program to help you decide who is going pay the bill.
 import random
 
 # 🚨 Don't change the code below 👇
