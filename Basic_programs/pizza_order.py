@@ -1,3 +1,4 @@
+#program that determines the cost of pizza, based on your choice of ingredients.
 # 🚨 Don't change the code below 👇
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")
