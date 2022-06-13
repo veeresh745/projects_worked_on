@@ -1,3 +1,4 @@
+#program to findout whether a number is prime or not.
 #defining a function called prime_checker() 
 # so that the code below works.
 def prime_checker(number):
