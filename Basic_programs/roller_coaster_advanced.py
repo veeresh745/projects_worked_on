@@ -1,3 +1,4 @@
+#program to check aligibility to ride rollercoaster and cost.
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 bill = 0
