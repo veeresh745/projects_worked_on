@@ -1,3 +1,4 @@
+# program to calculate body mass index.
 # 🚨 Don't change the code below 👇
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
