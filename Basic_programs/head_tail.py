@@ -1,3 +1,4 @@
+# program to print head or tail randomly
 #Remember to use the random module
 #Hint: Remember to import the random module here at the top of the file. 🎲
 import random
