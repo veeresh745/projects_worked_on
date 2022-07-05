@@ -1,3 +1,4 @@
+#playing rock paper scissors, and printing differnt hand positions
 import random
 rock = '''
     _______
