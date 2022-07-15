@@ -1,3 +1,4 @@
+#basic program to check a number for even and odd
 # 🚨 Don't change the code below 👇
 number = int(input("Which number do you want to check? "))
 # 🚨 Don't change the code above 👆
